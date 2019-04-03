@@ -13,7 +13,8 @@ if (name === "Susan") {
 }
 
 if (height === "70") { 
-  console.log(¨the height is correct")
-} else {
-  console.log(expected "70")
+  console.log("the height is correct") 
 }
+else {console.log("Expected the height to be 70")
+}
+
